@@ -1,0 +1,131 @@
+#button  {
+
+	display: flex;
+	justify-content: center;
+
+ }
+
+#buy {
+
+	 display: flex;
+	 justify-content: center;
+	 margin-bottom: 10px;
+  
+ 
+ }
+
+button {
+	font-family: helvetica;
+	font-size: 20px;
+	width: 200px;
+	height: 50px;
+	border-radius: 20px;
+	border: none;
+ }
+
+ h1 {
+ 	font-family: helvetica, sans-serif;
+ 	font-weight: lighter;
+ 	text-align: center;
+ }
+
+  h2 {
+ 	font-family: helvetica, sans-serif;
+ 	font-weight: lighter;
+ 	text-align: center;
+ 	font-size: 20px;
+ }
+
+ #b1 {
+ 	background-color: black;
+ 	color: white;
+ }
+
+ #b2 {
+ 	background-color: gray;
+ 	color: white;
+ }
+
+  #b3 {
+ 	background-color: red;
+ 	color: white;
+ }
+
+ #b4 {
+ 	background-color: gray;
+ 	color: white;
+ 	margin-top: -20px;
+ 	text-decoration: none;
+ 	align-content: center
+ }
+
+
+ img {
+ 	display: block;
+ 	margin: auto;
+ 	width: 60%;	
+ 	
+ }
+
+a{
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+
+ .topnav {
+  background-color: #333;
+  overflow: hidden;
+   text-align: center;
+  display:flex;
+  justify-content:center
+ 
+}
+
+.topnav a {
+  display: inline-block;
+  display: block;
+   color: #f2f2f2;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: helvetica, sans-serif;
+
+}
+
+.section {
+	display: flex;
+}
+
+.detalles {
+
+	width: 500px;
+	padding: 40px;
+}
+
+.imagen-venta {
+	width: 700px;
+}
+
+#footer  {
+
+  text-align: center;
+  padding: 3px;
+  background-color: red;
+  color: white;
+  font-family: helvetica, sans-serif;
+
+
+}
+.box-footer {
+	display: inline-flex;
+
+}
+
+.text-cuerpo {
+	font-family: helvetica, sans-serif;
+	font-size: 20px;
+
+}
